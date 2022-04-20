@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Bakbak+One&family=Open+Sans+Condensed:wght@300&family=Oswald:wght@200;300;500&family=Pushster&family=Roboto+Condensed:wght@300&family=Snowburst+One&display=swap");
+.Footer1 {
+  margin: 30px 105px 23px 105px;
+}
+.Ontsloh {
+  font-weight: 18px;
+  color: #fff;
+  font-family: "Open Sans Condensed", sans-serif;
+  border-left: 4px solid yellow;
+  padding: 10px 5px 5px 8px;
+}
+.loogo {
+  width: 360px;
+  height: 230px;
+  position: relative;
+  background-color: #a52a2a;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.loogo i {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 70px;
+  color: #fff;
+}
+.text {
+  color: #fff;
+  word-spacing: 5px;
+  font-family: "Open Sans Condensed", sans-serif;
+  line-height: 1.2;
+  font-size: 20px;
+  width: 230px;
+  position: absolute;
+  top: 20%;
+  left: 58%;
+  transform: translateX(-50%);
+}
+.container11 {
+  background-color: #444c66;
+  width: 60%;
+  height: 160px;
+  margin: 10px 10px 10px 0px;
+  position: relative;
+  display: flex;
+  border-radius: 20px;
+  flex-direction: row;
+  align-items: center;
+}

@@ -1,0 +1,26 @@
+.home {
+  display: grid;
+  grid-template-columns: repeat(4, 3fr);
+  margin-left: 100px;
+  margin-right: 90px;
+  margin-top: 60px;
+}
+button {
+  color: black;
+  font: 14px "Roboto", sans-serif;
+  padding: 5px 10px;
+  border: 1px solid black;
+  margin: 3px;
+}
+button:hover {
+  background-color: #000;
+  color: white;
+}
+body {
+  background: rgb(121, 173, 236);
+  background: radial-gradient(
+    circle,
+    rgba(121, 173, 236, 0.9920343137254902) 0%,
+    rgba(36, 44, 48, 1) 85%
+  );
+}
